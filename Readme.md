@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Алексадра Вишневская](https://up.htmlacademy.ru/htmlcss/13/user/60582).
-* Наставник:[Андрей Кованов.](https://htmlacademy.ru/profile/id63294).
+* Наставник:[Андрей Кованов](https://htmlacademy.ru/profile/id63294).
 
 ---
 
